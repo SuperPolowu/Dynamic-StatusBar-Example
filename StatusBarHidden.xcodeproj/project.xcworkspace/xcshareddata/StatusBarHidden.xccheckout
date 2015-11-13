@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9E7CF0D4-925C-4C7A-B16A-12D229B004F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StatusBarHidden</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A4794F68CCB224881E9FED8034E4A08EF66FDFCE</key>
+		<string>https://github.com/SuperPolowu/Dynamic-StatusBar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StatusBarHidden.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A4794F68CCB224881E9FED8034E4A08EF66FDFCE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SuperPolowu/Dynamic-StatusBar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A4794F68CCB224881E9FED8034E4A08EF66FDFCE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A4794F68CCB224881E9FED8034E4A08EF66FDFCE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dynamic-StatusBar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
